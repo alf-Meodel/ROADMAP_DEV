@@ -22,7 +22,6 @@ back ↩️
   <img src="/assets/img/button/home_page.png" alt="Lire la suite" style="width: 150px; height: auto;">
 </a>
 
-
 <a href="/PostgreSQL/README.md">
   <img src="/assets/img/button/read_more.png " alt="Read more" style="width: 150px; height: auto;">
 </a>
